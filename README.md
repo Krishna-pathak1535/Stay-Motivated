@@ -1,20 +1,7 @@
 # ✨ Stay Motivated: A Message Just For You 💐
 
 ![Build Status](https://img.shields.io/badge/Status-Complete-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-blue)
 ![Version](https://img.shields.io/badge/Version-1.0.0-orange)
-
----
-
-## 🌟 Table of Contents
-
-* [Introduction](#-introduction)
-* [Features](#-features)
-* [How to Use](#-how-to-use)
-* [Technologies Used](#-technologies-used)
-* [Contributing](#-contributing)
-* [License](#-license)
-* [Contact](#-contact)
 
 ---
 
