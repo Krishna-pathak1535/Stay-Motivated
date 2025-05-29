@@ -9,7 +9,7 @@
 
 Welcome to **Stay Motivated**, a delightful and interactive web experience designed to uplift and inspire you with a personalized motivational message! This project combines captivating animations, dynamic text effects, and a serene visual backdrop to create a unique and heartwarming journey. It's a simple, yet powerful reminder to stay positive and pursue your dreams.
 
-**[Watch a quick demo here!]([link-to-gif-or-video-demo](https://krishna-pathak1535.github.io/Stay-Motivated/#))** 
+**[Watch a quick demo here!](https://krishna-pathak1535.github.io/Stay-Motivated/#)** 
 
 ---
 
